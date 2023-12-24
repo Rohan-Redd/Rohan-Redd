@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adavelli Rohan Reddy</h1>
 <h3 align="center">Computer Science undergrad with a focus on AI and Robotics. Passionate about ML, automation, and tech-driven solutions.</h3>
 
-- 👨‍💻 My portfolio [website](rohanreddy.click)
-
 - 📫 How to reach me **adavellirohanreddy@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://github.com/Rohan-Redd/Resume/blob/main/Resume.pdf)
